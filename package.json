@@ -1,0 +1,26 @@
+{
+  "name": "superstruct-chain",
+  "description": "Enables chaining syntax in superstruct",
+  "author": "Chung Leong",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "preferGlobal": false,
+  "repository": "git://github.com/chung-leong/superstruct-chain.git",
+  "homepage": "https://github.com/chung-leong/superstruct-chain",
+  "bugs": {
+    "url": "https://github.com/chung-leong/superstruct-chain"
+  },
+  "license": "MIT",
+  "keywords": [
+    "superstruct"
+  ],
+  "tags": [
+    "superstruct"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "superstruct": "*"
+  }
+}
